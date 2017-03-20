@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:479062CB
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\tiny24.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavreval\projects\LightRing_3\IOports.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavreval\projects\LightRing_3\Timers.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavreval\projects\LightRing_3\TWI.h"
+NODE:C LEVEL:0 LINE:29 "LED_Map -> FLASH"
+NODE:F LEVEL:0 LINE:31 "SetLED_A(unsigned char Mask,unsigned char value)"
+NODE:F LEVEL:0 LINE:51 "SetLED_B(unsigned char Mask,unsigned char value)"
+NODE:F LEVEL:0 LINE:71 "SetLED(unsigned char led,unsigned char value)"
+NODE:F LEVEL:0 LINE:86 "main(void)"

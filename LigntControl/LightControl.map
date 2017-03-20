@@ -1,0 +1,25 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+LED_pulses                                                        00A0h       16
+LED_Intensity                                                     00B0h       36
+modeStart                                                         00D4h        7
+Limit                                                             00DBh       32
+TWI_Msg                                                           00FBh        3
+SdelayValue                                                       00FEh        1
+PowerDownValue                                                    00FFh        2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+Debounce                                                          R2,R3        2
+KeyRepeat                                                         R4,R5        2
+KeyDownWait                                                       R7           1
+PowerOn                                                           R6           1
+OneSecondPeriod                                                   R8,R9        2
+MSdelayValue                                                      R10,R11      2
+MSwaitValue                                                       R12,R13      2

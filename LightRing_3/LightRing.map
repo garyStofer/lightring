@@ -1,0 +1,23 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+SlaveAddr                                                         0080h        1
+overflowState                                                     0081h        1
+rxBuf                                                             0082h        8
+rxHead                                                            008Ah        1
+rxTail                                                            008Bh        1
+txBuf                                                             008Ch        8
+txHead                                                            0094h        1
+txTail                                                            0095h        1
+state                                                             0096h        1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+OneSecondPeriod                                                   R2,R3        2
+MSdelayValue                                                      R4,R5        2
+SdelayValue                                                       R7           1

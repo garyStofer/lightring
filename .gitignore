@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.ko
+*.obj
+
+
+# Libraries
+*.lib
+
+*.c~
+*.h~
+
+# Executables
+*.exe
+*.out
+ 
+
+*.out
+*.bin
+/LightRing_3/*.prj~
+/LigntControl/*.cw~
+/LigntControl/*.prj~
